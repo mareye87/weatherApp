@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 body {
-  background-image: url("background.jpg");
+  background-image: url("./assets/images/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   min-height: 100vh;
